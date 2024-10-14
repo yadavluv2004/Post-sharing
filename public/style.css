@@ -1,0 +1,15 @@
+h1{
+    color:red;
+}
+
+.post{
+    background-color: pink;
+}
+
+.user{
+    font-style: italic;
+}
+
+.content{
+    font-weight: bold;
+}
